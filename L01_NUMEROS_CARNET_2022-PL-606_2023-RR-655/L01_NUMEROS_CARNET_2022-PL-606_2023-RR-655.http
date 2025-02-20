@@ -1,0 +1,6 @@
+@L01_NUMEROS_CARNET_2022_PL_606_2023_RR_655_HostAddress = http://localhost:5116
+
+GET {{L01_NUMEROS_CARNET_2022_PL_606_2023_RR_655_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
